@@ -22,4 +22,7 @@ tags:
 
 Pytest is the most common and powerful python framework for automated testing.
 
+# Lesson used during the studyGroup
+
+- [Automated testing](https://coderefinery.github.io/testing/)
 
